@@ -1,0 +1,10 @@
+{
+    "user": "2689304284@qq.com",
+    "passwd": "cbuvpugkkmcedgzh",
+    "dst": "1819770177@qq.com",
+    "imap_server": "imap.qq.com",
+    "imap_port": "993",
+    "smtp_server": "smtp.qq.com",
+    "smtp_port": "465",
+    "debug": "0"
+}
